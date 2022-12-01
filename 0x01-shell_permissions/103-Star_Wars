@@ -1,2 +1,2 @@
 #!/bin/bash
-open StarWars IV episode
+chmod a+x StarWars IV episode
