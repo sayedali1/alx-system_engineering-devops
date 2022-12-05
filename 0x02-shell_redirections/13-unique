@@ -1,2 +1,2 @@
 #!/bin/bash
-cut --complement | uniq -u | sort 
+uniq -u | sort
