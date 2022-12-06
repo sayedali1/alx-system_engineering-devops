@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d,f -empty -not -name "." | cut -d "/" -f 3
+find . -empty | cut -d "/" -f 2
