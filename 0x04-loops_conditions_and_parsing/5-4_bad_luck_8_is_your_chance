@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#print number from 1 to 10 with a given condition
 i=1
 while ((i <= 10));
 do
