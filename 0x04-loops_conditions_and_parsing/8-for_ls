@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#print the list of files in the working dir
 files="$(ls)"
 for file in $files;
 do
