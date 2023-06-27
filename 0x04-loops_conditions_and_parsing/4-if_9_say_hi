@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#print string using while with one condition
 i=1
 while ((i <= 10));
 do
