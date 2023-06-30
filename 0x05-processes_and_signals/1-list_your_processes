@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# display the currur pid process
+ps -a -u -f -x
