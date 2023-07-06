@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#get the ip address using ifconfig
+
+ifconfig | grep "inet " | cut -d " " -f10
