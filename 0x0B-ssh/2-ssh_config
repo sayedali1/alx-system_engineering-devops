@@ -1,6 +1,5 @@
-#!/usr/bin/env bash
 #  configure our local host
 
-Host 100.25.119.87
+Host 18.204.5.193
     PasswordAuthentication no
     IdentityFile ~/.ssh/school
