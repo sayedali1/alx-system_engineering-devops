@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-# create a ssh connection
-
-ssh -i ~/.ssh/school ubuntu@18.204.5.193
