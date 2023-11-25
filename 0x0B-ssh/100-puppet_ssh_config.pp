@@ -7,7 +7,7 @@ file_line { 'trun off pass':
   match  => 'PasswordAuthentication yes',
 }
 
-file_line {'Declare identity file':
+file_line {'identity file':
   ensure => 'present',
   path   => '/etc/ssh/ssh_config',
   line   => '    IdentityFile ~/.ssh/school',
