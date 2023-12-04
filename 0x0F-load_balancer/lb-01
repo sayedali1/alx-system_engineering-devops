@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#load blancer
+ssh -i ~/.ssh/school ubuntu@52.86.66.237
